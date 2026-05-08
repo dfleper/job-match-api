@@ -1,0 +1,110 @@
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# IDEs / Editors
+# =========================
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Docker
+# =========================
+.docker/
+docker-compose.override.yml
+
+# =========================
+# Build / dist
+# =========================
+dist/
+build/
+out/
+target/
+
+# =========================
+# Dependencies
+# =========================
+node_modules/
+
+# =========================
+# Java / Spring Boot
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+.mvn/wrapper/maven-wrapper.jar
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# =========================
+# Kotlin
+# =========================
+.kotlin/
+
+# =========================
+# TypeScript / JavaScript
+# =========================
+coverage/
+.nyc_output/
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+
+# =========================
+# Tests
+# =========================
+test-results/
+junit-results/
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# =========================
+# Database / local storage
+# =========================
+*.sqlite
+*.sqlite3
+*.db
+
+# =========================
+# Generated files
+# =========================
+generated/
