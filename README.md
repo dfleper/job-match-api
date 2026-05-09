@@ -1,5 +1,8 @@
 # Job Match API
 
+![GitHub repo size](https://img.shields.io/github/repo-size/dfleper/job-match-api?logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/dfleper/job-match-api?color=blue&label=last-commit&logo=github&logoColor=white)
+
 API REST en Node.js + TypeScript para calcular compatibilidad entre un perfil candidato y una lista de ofertas de trabajo. El servicio expone un endpoint que recibe habilidades y experiencia, calcula un score de matching por oferta y devuelve los resultados ordenados de mayor a menor compatibilidad.
 
 ## Índice
