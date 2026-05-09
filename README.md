@@ -5,6 +5,19 @@
 
 API REST en Node.js + TypeScript para calcular compatibilidad entre un perfil candidato y una lista de ofertas de trabajo. El servicio expone un endpoint que recibe habilidades y experiencia, calcula un score de matching por oferta y devuelve los resultados ordenados de mayor a menor compatibilidad.
 
+---
+
+## Screenshots
+
+### Desktop View
+
+<div style="display: flex; gap: 12px; justify-content: center; margin-bottom: 12px;">
+  <img src="./screenshots/postman_001.png" width="45%">
+  <img src="./screenshots/postman_002.png" width="45%">
+</div>
+
+---
+
 ## Índice
 
 - [Tecnologías](#tecnologías)
