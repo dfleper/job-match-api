@@ -9,7 +9,7 @@ API REST en Node.js + TypeScript para calcular compatibilidad entre un perfil ca
 
 ## Screenshots
 
-### Desktop View
+### Postman View
 
 <div style="display: flex; gap: 12px; justify-content: center; margin-bottom: 12px;">
   <img src="./screenshots/postman_001.png" width="45%">
